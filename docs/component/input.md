@@ -137,7 +137,7 @@ App平台软键盘弹出有 adjustResize|adjustPan 两种模式，默认为 adju
 			</view>
 			<view class="uni-form-item uni-column">
 				<view class="title">键盘右下角按钮显示为搜索</view>
-				<input class="uni-input" confirm-type="search" placeholder="键盘右下角按钮显示为搜索" />
+				<input class="uni-input" confirm-type="next" placeholder="键盘右下角按钮显示为搜索" />
 			</view>
 			<view class="uni-form-item uni-column">
 				<view class="title">控制最大输入长度的input</view>
